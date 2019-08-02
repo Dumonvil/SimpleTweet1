@@ -1,4 +1,4 @@
-# Project 3 - *SimpleTwiiter1*
+# Project 3 - *SimpleTwiter1*
 
 **SimpleTwitter1** is an android app that allows a user to view his Twitter timeline. The app utilizes [Twitter REST API](https://dev.twitter.com/rest/public).
 
@@ -36,8 +36,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/Dumonvil/SimpleTweet1/blob/master/20190801_091824.gif
-' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/Dumonvil/SimpleTweet1/blob/master/20190801_091824.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
 
